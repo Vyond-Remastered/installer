@@ -1,0 +1,2 @@
+Don't expect this to install flash for you, instead, please install it before using the installer.
+This currently installs the stable version, aka 2.3.0.
